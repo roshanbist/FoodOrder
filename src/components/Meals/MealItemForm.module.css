@@ -1,0 +1,22 @@
+.meal__order {
+  width: 138px;
+}
+
+.order-form {
+  text-align: center;
+}
+
+.order-form label {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.input {
+  height: 30px;
+  margin: 0 0 10px 10px;
+}
+
+.order-form .button {
+  min-width: auto;
+  width: 100%;
+}
